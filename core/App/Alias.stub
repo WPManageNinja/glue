@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use WPMNForm\Core\App\BaseAlias;
+
+class DummyClass extends BaseAlias
+{
+	static $key = 'DummyKey';
+}
